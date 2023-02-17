@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokemon/static/css/main.7e4dc0f1.css",
+    "main.js": "/pokemon/static/js/main.5f1bd9fa.js",
+    "static/media/fighter1.png": "/pokemon/static/media/fighter1.c4bacf8ff055e71cd880.png",
+    "static/media/fighter2.png": "/pokemon/static/media/fighter2.9e8a057f366f567c0876.png",
+    "static/media/background": "/pokemon/static/media/background.ea3725cc1d29eeee2af8",
+    "index.html": "/pokemon/index.html",
+    "main.7e4dc0f1.css.map": "/pokemon/static/css/main.7e4dc0f1.css.map",
+    "main.5f1bd9fa.js.map": "/pokemon/static/js/main.5f1bd9fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4dc0f1.css",
+    "static/js/main.5f1bd9fa.js"
+  ]
+}
